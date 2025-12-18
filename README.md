@@ -1,13 +1,13 @@
-Roblox Undetected Injector
+# Roblox Undetected Injector
 ⚠️ Disclaimer
 - This tool is for educational purposes only. Use at your own risk.
 
-📦 Features
+# 📦 Features
 - Multiple script execution
   
 - Game-specific functions
 
-🚀 Installation
+# 🚀 Installation
 - Download the latest release
 
 - Extract the archive
@@ -16,15 +16,15 @@ Roblox Undetected Injector
 
 - Follow on-screen instructions
 
-🔧 Requirements
+# 🔧 Requirements
 - Windows 10/11
   
 - No out libs requied 
 
 - Roblox installed
 
-📄 License
+# 📄 License
 - This project is for educational use only. Not affiliated with Roblox Corporation.
 
-⚠️ Warning
+# ⚠️ Warning
 -Using third-party software violates Roblox's Terms of Service and may result in account termination.
