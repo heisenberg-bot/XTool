@@ -53,7 +53,7 @@ The author is not responsible for issues caused by improper usage or unsupported
 
 ## 📦 Installation
 
-1. Download or clone the repository
+1. Download Folder, extract,run program, confgurate settings and start | Or clone the repository
 2. Run the application with administrator privileges
 3. Follow on-screen instructions
 
